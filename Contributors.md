@@ -50,6 +50,7 @@
 - [Sarthak Dhonchak](https://github.com/SarthakDhonchak/)
 - [Marc Perlas](https://github.com/DadTech)
 - [Alex Ownejazayeri](https://github.com/alexownejazayeri)
+- [Mamosebetsi Kekae](https://github.com/shaymk1)
 - [Steve Slater](https://github.com/sjslater)
 - [Jean Didier Tarpaga](https://github.com/tarpagad)
 - [James_Robinson](https://github.com/JamesRobinson160552)
